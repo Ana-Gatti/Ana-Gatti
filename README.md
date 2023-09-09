@@ -7,9 +7,9 @@
 - 💻 Desenvolvedora  ❤
 - 🚀 Bootcamp Generation
 - 🚀 Bootcamp Angular
-- 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas
-- 👩‍🎓 Formada em Gestão Empresarial
-- 👩‍🎓 Formada em Gestão de Recursos Humanos
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas
+- 🎓 Formada em Gestão Empresarial
+- 🎓 Formada em Gestão de Recursos Humanos
 
 - 💡 Proativa, comunicativa e persistente!
 
